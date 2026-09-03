@@ -45,10 +45,3 @@ If merge conflicts occur, resolve the `<<<<<<<` markers in your text editor, com
 ---
 
 Contributions and fixes welcome via pull requests or issues.
-
-### Search & Replace Placeholders
-* `02335` (e.g., `02326`)
-* `Operating systems` (e.g., `Algorithms and Data Structures`)
-* `02335-operating-systems-notes` (e.g., `02326-Algorithms-and-Data-Structures-Notes`)
-* `lassedtu` (e.g., `lassedtu`)
-* `YOUR_USERNAME`
